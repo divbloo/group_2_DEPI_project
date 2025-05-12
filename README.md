@@ -8,3 +8,5 @@ in this project we will test the (swag laps) platform this project aims to train
 3- Mohamed Helmy Abd Elmoaty
 4- Nour Yehia Zakaria
 5- Shaimaa Ali Ali
+# JIrla URL
+https://depir2finalproject.atlassian.net/jira/software/projects/DEPIR2/boards/1/backlog
