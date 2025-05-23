@@ -79,5 +79,4 @@ Test environment :
 
 https://depir2finalproject.atlassian.net/jira/software/projects/DEPIR2/boards/1/backlog
 
-# Presentation
 
